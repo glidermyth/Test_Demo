@@ -1,0 +1,3 @@
+This is the first file added to Git Tutorial folder.
+This line is written to modify the file content.
+Git learning is going on.
